@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">TuCine</string>
+
+
+        <string name="leidy">Leidy Acuña</string>
+        <string name="subtitle">Ingeniera de Sistemas</string>
+        <string name="details">Descripción</string>
+        <string name="info">Mi nombre es Leidy Patricia Acuña Garcia, actualmente realizo practicas empresariales como modalidad de trabajo de grado del programa Ingenieria de Sistemas Universidad de Pamplona, Mi linea de profundización es bases de datos.</string>
+        <string name="boton">Cinemark</string>
+</resources>
